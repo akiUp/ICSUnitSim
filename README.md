@@ -11,6 +11,8 @@ Free trial versions of HMI software like RapidSCADA, Ignition and Advantech is a
 
 Developed using Arduino IDE for ESP32
 
+Modbus addressing
+!Important!: Modbus library uses 0 based adressing
 //-----Modbus Coils Offsets (read\write)
 
 mot_start, address: 100, boolean, Start button, 1 to activate, returns to 0 after activation
