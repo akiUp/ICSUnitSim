@@ -1,6 +1,7 @@
 # ICSUnitSim
 Simulation of Industrial process unit on ESP32 board with ModbusTCP interface
-Simulation intended to for HMI testing with realtime values and ICS security research
+
+Simulation intended for HMI testing with realtime values and ICS security research
 
 For Modbus signals testing you could use http://en.radzio.dxp.pl/modbus-master-simulator/ 
 
