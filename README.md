@@ -6,6 +6,7 @@ For Modbus signals testing you could use http://en.radzio.dxp.pl/modbus-master-s
 
 Example of HMI design is below
 https://twitter.com/supeyev/status/1257664325659082758
+
 Free trial versions of HMI software like RapidSCADA, Ignition and Advantech is available on internet.
 
 Developed using Arduino IDE for ESP32
