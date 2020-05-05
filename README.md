@@ -4,7 +4,7 @@ Simulation intended to for HMI testing with realtime values and ICS security res
 
 For Modbus signals testing you could use http://en.radzio.dxp.pl/modbus-master-simulator/ 
 
-Example of HMI design is below
+Example of HMI design 
 https://twitter.com/supeyev/status/1257664325659082758
 
 Free trial versions of HMI software like RapidSCADA, Ignition and Advantech is available on internet.
