@@ -8,13 +8,13 @@
 
 ## Table of Contents
 
-- [HMI Preview](#HMI Preview)
-- [Connection diagram](#Connection diagram)
-- [Virtual process P&ID](#Virtual process P&ID)
-- [Modbus addressing](#Modbus addressing)
+- [HMI Preview](#HMI)
+- [Connection diagram](#Connection)
+- [Virtual process P&ID](#Virtual)
+- [Modbus addressing](#Modbus)
 - [Follow](#Follow)
 - [Credits](#Credits)
-- [Version history](#Version history)
+- [Version history](#Version)
 
 ## HMI Preview
 
@@ -61,6 +61,6 @@ Follow author on twitter for project updates
 https://twitter.com/supeyev/
 
 ## Credits
-- Based on Alexander @emelianov (a.m.emelianov@gmail.com) Modbus library
-  https://github.com/emelianov/modbus-esp8266
+- Based on Alexander Emelianov (a.m.emelianov@gmail.com) Modbus library
+  https://github.com/emelianov/modbus-esp8266 @emelianov
 - Inductive Automation's Ignition SCADA used for HMI Design https://inductiveautomation.com/ignition/
