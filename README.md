@@ -72,8 +72,6 @@ tank_Hi, address: 100; Uint16, adjustable Hi level setpoint, for turning motor O
 
 tank_Lo, address: 110; Uint16, adjustable Lo level setpoint, for turning motor ON in AUTO mode
 ```
-//-----Modbus Holding Register Offsets (read\write)
-
 
 ## Follow 
 Follow author on twitter for project updates
