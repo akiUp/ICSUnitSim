@@ -12,30 +12,30 @@
 ## Table of Contents
 
 - [HMI Example](#HMI)
-- [Connection diagram](#Connection)
+- [Simulation setup](#Simulation)
 - [Virtual process P&ID](#Virtual)
 - [Modbus addressing](#Modbus)
 - [Follow](#Follow)
 - [Credits](#Credits)
 - [Version history](#Version)
 
-## HMI Example
+## HMI Visualisation Example
 
-<a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/ICSonChip.gif" title="HMI demo" alt="HMI Demo"></a>
+<a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/v02/img/ICSonChip.gif" title="HMI demo" alt="HMI Demo"></a>
 
 Current HMI Example is designed on Ignition SCADA by Inductive Automation
 
 Free trial versions of HMI software like RapidSCADA, Ignition and Advantech is available on internet.
 
-## Connection diagram
+For simple Modbus values reading/writing you could use RMMS tool http://en.radzio.dxp.pl/modbus-master-simulator/ 
+
+## Simulation Setup
 
 <a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/Simulation%20diagram.png" title="Connection diagram" alt="Connection diagram"></a>
 
-## Virtual process P&ID
+## Virtual process's P&ID
 
-<a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/ICSUnitSimP%26IDv2.png" title="Simulation P&ID" alt="Simulation P&ID"></a>
-
-For Modbus signals testing you could use http://en.radzio.dxp.pl/modbus-master-simulator/ 
+<a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/v02/img/ICSUnitSimP%26IDv02.png" title="Simulation P&ID" alt="Simulation P&ID"></a>
 
 ## Modbus addressing
 
