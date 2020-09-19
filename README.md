@@ -8,6 +8,10 @@
 
 > Developed using Arduino IDE for ESP32 (ESP 32 MCU board is <a href="https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200516160605&SearchText=esp32">available on Aliexpress </a> for approx price of 5$)
 
+## Version history
+- Added HMI project backup for output visualisation
+- V0.2 Introduced Pump AUTO functionality, adjustable setpoints, tank_drain variable on modbus
+- V0.1 Initial code with manual controls only 
 
 ## Table of Contents
 
@@ -20,6 +24,7 @@
 - [Version history](#Version)
 
 ## HMI Visualisation Example
+HMI_Project folder contains latest backup of Ignition HMI Project, restore it to you Ignition setup for below result.
 
 <a href="https://github.com/akiUp/ICSUnitSim"><img src="https://github.com/akiUp/ICSUnitSim/blob/master/v02/img/ICSonChip.gif" title="HMI demo" alt="HMI Demo"></a>
 
@@ -82,6 +87,4 @@ https://twitter.com/supeyev/
   https://github.com/emelianov/modbus-esp8266 @emelianov
 - Inductive Automation's Ignition SCADA used for HMI Design https://inductiveautomation.com/ignition/
 
-## Version history
-- V0.2 Introduced Pump AUTO functionality, adjustable setpoints, tank_drain variable on modbus
-- V0.1 Initial code with manual controls only 
+
